@@ -1,9 +1,5 @@
 # React Express App
 
-An react - express example application for downloding files using express api.
-
-For more details, see https://flaviocopes.com/express-send-files/.
-
 
 ## Installation
 
@@ -17,6 +13,3 @@ For more details, see https://flaviocopes.com/express-send-files/.
     npm install
     npm start
 
-## License
-
-None
