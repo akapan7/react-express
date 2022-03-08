@@ -3,7 +3,7 @@
 
 ## Installation
 
-    git clone https://github.com/skdarekar/react-express.git
+    git clone https://github.com/almazhankapan/react-express.git
     cd react-express
     cd backend-express
     npm install
